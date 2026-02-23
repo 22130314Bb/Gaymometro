@@ -158,4 +158,8 @@ Quer adicionar o Geymômetro em outra linguagem?
 
 Pull requests são bem-vindos.
 
+![Geymômetro](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM1bDVicXF3cWo5dmxoOXN1YjRtNHFqZDVicW9zeHhxNWJlZmlscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IRFQYGCokErS0/giphy.gif)
+
+
+
 O Geymômetro deve ser **multiplataforma, multilíngue e infinito** 🌈✨
