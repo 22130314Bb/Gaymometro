@@ -1,6 +1,6 @@
 # 🌈 Geymômetro Multilíngue
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="demo" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjViZzF1amIwaDFwNDQzeGVzbDFueTd5cnljeXB5aGt6aG5lN2xqbCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/vVegyymxA90fkY8jkE/giphy.gif" alt="gif" />
 </p>
 
 > Medindo níveis em **todas as linguagens possíveis**.
