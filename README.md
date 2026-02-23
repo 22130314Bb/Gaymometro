@@ -8,12 +8,15 @@ A proposta é simples:
 
 ➡️ Mesmo conceito
 ➡️ Várias linguagens
+➡️ Mesma lógica, sintaxes diferentes
 
 ---
 
 ## 🧠 O que é o Geymômetro?
 
-O **Gaymômetro** é um algoritmo que calcula o nivel lgbt de uma pessoa pelo nome.
+O **Geymômetro** é um algoritmo que calcula o nível LGBT de uma pessoa com base no nome informado.
+
+⚠️ Projeto criado com fins educacionais e de prática em múltiplas linguagens.
 
 ---
 
@@ -23,13 +26,16 @@ Atualmente o projeto possui implementações em:
 
 * 🐍 Python
 * 🌐 JavaScript
+* 🔷 TypeScript
 * ☕ Java
 * 🐹 Go
 * 🧱 C
 * 🧬 Assembly
+* 🟣 C#
 * 🐘 PHP
 * 💎 Ruby
 * 🟣 Kotlin
+* 🌙 Lua
 
 Cada linguagem possui sua própria versão do Geymômetro.
 
@@ -41,13 +47,17 @@ Cada linguagem possui sua própria versão do Geymômetro.
 .
 ├── main.py
 ├── main.js
+├── main.ts
+├── main_ts.js
 ├── Main.java
 ├── main.go
 ├── main.c
 ├── main.asm
+├── main.cs
 ├── main.php
 ├── main.rb
 ├── main.kt
+├── main.lua
 ```
 
 Cada arquivo executa o Geymômetro na sua respectiva linguagem.
@@ -58,37 +68,62 @@ Cada arquivo executa o Geymômetro na sua respectiva linguagem.
 
 Escolha sua linguagem favorita e rode normalmente.
 
-Exemplos:
+### 🐍 Python
 
-### Python
-
-```bash
+```
 python main.py
 ```
 
-### JavaScript
+### 🌐 JavaScript
 
-```bash
+```
 node main.js
 ```
 
-### Go
+### 🔷 TypeScript
 
-```bash
+```
+tsc main.ts
+node main_ts.js
+```
+
+### 🐹 Go
+
+```
 go run main.go
 ```
 
-### C
+### 🧱 C
 
-```bash
-gcc main.c -o gey && ./gey
+```
+gcc main.c -o gey
+./gey
 ```
 
-### Java
+### ☕ Java
 
-```bash
+```
 javac Main.java
 java Main
+```
+
+### 🟣 C#
+
+```
+dotnet run
+```
+
+ou
+
+```
+csc main.cs
+./main
+```
+
+### 🌙 Lua
+
+```
+lua main.lua
 ```
 
 ---
@@ -97,7 +132,10 @@ java Main
 
 Este projeto foi criado para:
 
-* praticar múltiplas linguagens
+* Praticar múltiplas linguagens
+* Comparar sintaxe e paradigmas
+* Explorar diferenças de compilação e execução
+* Aprender na prática
 
 ---
 
@@ -105,23 +143,18 @@ Este projeto foi criado para:
 
 Implementações planejadas:
 
-* Rust
-* Swift
-* C#
-* Bash
-* Brainfuck (talvez…)
+* 🦀 Rust
+* 🍎 Swift
+* 🐚 Bash
+* 🧠 Haskell
+* 🌀 Brainfuck (talvez…)
 
 ---
 
 ## 🤝 Contribuições
 
-Quer adicionar o Gaymõmetro em outra linguagem?
+Quer adicionar o Geymômetro em outra linguagem?
 
 Pull requests são bem-vindos.
 
-A Gaymõmetro deve ser multiplataforma.
-
----
-
-
-
+O Geymômetro deve ser **multiplataforma, multilíngue e infinito** 🌈✨
